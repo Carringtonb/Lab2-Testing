@@ -7,7 +7,7 @@ namespace ATMTesting
     public class UnitTest1
     {
         [Fact]
-        public void Test1()
+        public void TestToSeeIfWithdrawlOfSufficientFundsWorks()
         {
             Program.balance = 500;
             Program.Withdrawal(420);
@@ -15,12 +15,13 @@ namespace ATMTesting
         }
 
         [Fact]
-        public void Test2()
+        public void TestToSeeIfWithdrawalOfInsufficientFunds()
         {
             Program.balance = 500;
             Program.Withdrawal(520);
             Assert.Equal(-20, Program.balance);
         }
+    
     }
 
       
