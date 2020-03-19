@@ -39,7 +39,7 @@ Then select and open ```UnitTesting.sln```
 #### Application Start
 ![Image 1](<img width="1103" alt="lab2 screenshot" src="https://user-images.githubusercontent.com/58369033/77002668-1a073400-6919-11ea-810a-3453323bec2c.png">)
 
-[!image](<img width="1440" alt="TestScrrenshot" src="https://user-images.githubusercontent.com/58369033/77023052-759ce600-6948-11ea-9c2c-0a717fdd2bba.png">)
+![image](<img width="1440" alt="TestScrrenshot" src="https://user-images.githubusercontent.com/58369033/77023052-759ce600-6948-11ea-9c2c-0a717fdd2bba.png">)
 
 
 
