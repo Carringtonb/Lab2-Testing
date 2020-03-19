@@ -27,7 +27,7 @@ namespace UnitTesting
             {
                 Console.WriteLine("Enter amount to Withdraw");
                 string withdraw = Console.ReadLine();
-                decimal convertedInput = Convert.ToDecimal(userInput);
+                decimal convertedInput = Convert.ToDecimal(withdraw);
                 Withdrawal(convertedInput);
                 Main();
             }
