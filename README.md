@@ -37,7 +37,6 @@ Then select and open ```UnitTesting.sln```
 ***[Add screenshots of your application in action]***
 
 #### Application Start
-![Image 1](https://user-images.githubusercontent.com/58369033/77002668-1a073400-6919-11ea-810a-3453323bec2c.png)
 
 ![image](https://user-images.githubusercontent.com/58369033/77023052-759ce600-6948-11ea-9c2c-0a717fdd2bba.png)
 
